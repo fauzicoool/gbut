@@ -10,6 +10,7 @@
 
 ---
 
+![Preview](screenshot.gif)
 
 ---
 
