@@ -13,5 +13,7 @@
 
 ---
 
-
-```
+## Installations
+```bash
+git clone https://github.com/fauzicoool/gbut.git
+cd gbut
