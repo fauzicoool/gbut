@@ -17,3 +17,13 @@
 ```bash
 git clone https://github.com/fauzicoool/gbut.git
 cd gbut
+chmod +x ./gbut
+```
+
+## How To Use
+```bash
+
+./gbut s-nime # for search anime
+
+```
+<h1 align="center">I m Bored!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h1>
