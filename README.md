@@ -1,5 +1,5 @@
-<h1 align="center">🚀 PyCompiler</h1>
-<p align="center">A simple Python app that compiles your .py files into secure, standalone executables.</p>
+<h1 align="center">🚀 Gbut</h1>
+<p align="center">This is my project which I made because I was bored</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
